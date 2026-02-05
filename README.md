@@ -1,5 +1,7 @@
 # Sales Dashboard: Electronics Retailer
-Developing a sales [dashboard](sales_dashboard.pbix) for a consumer electronics retail business primarily situated in the US. The [dashboard](sales_dashboard.pbix) is meant to provide a high-level summary to help manage, optimize, and plan sales effectively through an interactive view of performance across time, products, customers, and geography.
+Developing a sales [dashboard](sales_dashboard.pbix) for a consumer electronics retail business primarily situated in the US. The [dashboard](sales_dashboard.pbix) is meant to provide a high-level summary to help manage, optimize, and plan sales effectively through an interactive view of performance across time, products, customers, and geography.<br>
+<br><br>
+Project's Aim: implementing core Power BI skills such as data modeling, visual design, filtering, and basic aggregation, without heavy use of DAX or Power Query.
 
 ## About the business
 The revenue model of the retail business is transactional sales (i.e. quantity × unit price captured as sales).
