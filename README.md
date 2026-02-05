@@ -8,7 +8,7 @@ The revenue model of the retail business is transactional sales (i.e. quantity Ã
 Individual consumers of the business are distributed across multiple US states and cities in some other parts of the world such as China and India.
 
 ## About the data
-The dataset used spans from January 2024 to December 2026. It is taken from [Data with Baara](https://www.datawithbaraa.com/wiki/power-bi#power-bi-welcome-to-course), website of [Baraa Khatib Salkini](https://www.youtube.com/@DataWithBaraa) - industry practitioner in the field of BI and data engineering. Two primary source files are used, namely, `cutomers.csv` and `orders.csv`.
+The dataset used spans from January 2024 to December 2026. It is taken from [Data with Baara](https://www.datawithbaraa.com/wiki/power-bi#power-bi-welcome-to-course), website of [Baraa Khatib Salkini](https://www.youtube.com/@DataWithBaraa) - industry practitioner in the field of BI and data engineering. Two primary source files are used, namely, [cutomers.csv](source_data_preview/customers_preview.png) and [orders.csv](source_data_preview/orders_preview.png).
 
 <p align="center">
   <img src="schema.png" alt="Schema" width="350"/>
