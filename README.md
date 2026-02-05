@@ -7,6 +7,9 @@ Individual consumers of the business are distributed across multiple US states a
 
 ## About the data
 The dataset used spans from January 2024 to December 2026. It is taken from [Data with Baara](https://www.datawithbaraa.com/wiki/power-bi#power-bi-welcome-to-course), website of [Baraa Khatib Salkini](https://www.youtube.com/@DataWithBaraa) - industry practitioner in the field of BI and data engineering. 
-<br> The dataset comprises two tables: 
+<br> 
+![Schema](schema.png)
+
+The dataset comprises two tables: 
 - `customers`
 -  `orders` 
